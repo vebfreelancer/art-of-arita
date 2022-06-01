@@ -1,5 +1,7 @@
 # Art of arita
+```
 Website of a design organization in one screen.
+```
 - Preloader
 - Desktop - scroll navigation
 - Mobile - swipe navigation
@@ -7,5 +9,5 @@ Website of a design organization in one screen.
 - Custom cursor
 
 ## Plugins:
-greensock.com 
-github.com/john-doherty/swiped-events
+- greensock.com 
+- github.com/john-doherty/swiped-events
