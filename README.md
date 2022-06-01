@@ -5,6 +5,7 @@ Website of a design organization in one screen.
 - Mobile - swipe navigation
 - Text animation
 - Custom cursor
+
 Plugins:
 https://greensock.com
 https://github.com/john-doherty/swiped-events
