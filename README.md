@@ -2,6 +2,7 @@
 ```
 Website of a design organization in one screen.
 ```
+## Implemented functionality:
 - Preloader
 - Desktop - scroll navigation
 - Mobile - swipe navigation
