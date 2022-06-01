@@ -1,6 +1,8 @@
 # Art of arita
 ```
-Website of a design organization in one screen. Net code, validation according to the [service]([url](https://validator.w3.org)) [Markup Validation Service W3C](https://validator.w3.org).
+Website of a design organization in one screen. Net code, validation according to the [service](https://validator.w3.org) 
+
+[Markup Validation Service W3C](https://validator.w3.org).
 ```
 ## Implemented functionality:
 - Preloader
