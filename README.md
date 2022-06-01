@@ -7,5 +7,7 @@ Website of a design organization in one screen.
 - Custom cursor
 
 Plugins:
-https://greensock.com
-https://github.com/john-doherty/swiped-events
+```
+greensock.com
+```
+github.com/john-doherty/swiped-events
