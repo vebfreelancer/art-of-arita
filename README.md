@@ -8,6 +8,6 @@ Website of a design organization in one screen.
 - Text animation
 - Custom cursor
 
-## Plugins:
-- greensock.com 
+## Plugins used:
+- greensock.com
 - github.com/john-doherty/swiped-events
