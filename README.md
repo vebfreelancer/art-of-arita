@@ -23,5 +23,5 @@ Practical development to improve skills and fill the portfolio.
 - FlexBox
 - BEM
 ### Plugins used:
-- greensock.com
+- [greensock.com](https://greensock.com/)
 - github.com/john-doherty/swiped-events
