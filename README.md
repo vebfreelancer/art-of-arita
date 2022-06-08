@@ -6,7 +6,8 @@ that scroll through desktops and swipe on mobile devices. When you play a slide,
 the title, text, photo, image, and background under the image change smoothly.  
 An animated preloader plays when the page loads. Cursor stylization. Net code,  
 validation according to the Markup Validation Service [W3C](https://validator.w3.org/#validate_by_uri).  
-Practical development to improve skills and fill the portfolio.
+Practical development to improve skills and fill the portfolio.  
+Это встроенная [ссылка с title элементом](http://example.com/link "Я ссылка"). Это — [без title](http://example.com/link).
 ```
 ### Implemented functionality:
 - Preloader
