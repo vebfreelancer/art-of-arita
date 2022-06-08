@@ -1,5 +1,5 @@
 # Art of arita
-https://vebfreelancer.github.io/art_of_arita/
+vebfreelancer.github.io/art_of_arita/
 ```
 Website of a design organization in one screen. The website consists of five slides  
 that scroll through desktops and swipe on mobile devices. When you play a slide,  
@@ -24,4 +24,4 @@ Practical development to improve skills and fill the portfolio.
 - BEM
 ### Plugins used:
 - [greensock.com](https://greensock.com/)
-- github.com/john-doherty/swiped-events
+- [swiped-events](https://github.com/john-doherty/swiped-events)
