@@ -20,10 +20,8 @@ Practical development to improve skills and fill the portfolio.
 - JavaScript
 - HTML5
 - CSS3
-- SCSS
 - FlexBox
 - BEM
-- GUlP
 ### Plugins used:
 - greensock.com
 - github.com/john-doherty/swiped-events
