@@ -9,10 +9,11 @@ validation according to the Markup Validation Service W3C.
 Practical development to improve skills and fill the portfolio.
 ```
 ### Implemented functionality:
-- Preloader
-- Desktop - scroll navigation
-- Mobile - swipe navigation
+- Preloader[^1]
+- Desktop - scroll navigation[^1]
+- Mobile - swipe navigation[^2]
 - Text animation
+- Slide animation
 - Custom cursor
 - Adaptive for mobile devices
 - Cross - browser
@@ -23,5 +24,5 @@ Practical development to improve skills and fill the portfolio.
 - FlexBox
 - BEM
 ### Plugins used:
-- [greensock.com](https://greensock.com/)
-- [swiped-events](https://github.com/john-doherty/swiped-events)
+[^1]:[greensock](https://greensock.com/)
+[^2]: [swiped-events](https://github.com/john-doherty/swiped-events)
