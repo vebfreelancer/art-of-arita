@@ -1,4 +1,4 @@
-# Art of arita
+# Art of Arita
 [vebfreelancer.github.io/art-of-arita](https://vebfreelancer.github.io/art-of-arita/)
 ```
 Website of a design organization in one screen. The website consists of five slides  
